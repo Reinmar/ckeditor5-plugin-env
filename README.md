@@ -4,7 +4,7 @@
 
 ## Plugin development
 
-1. Run `yarn start` (that builds a micro app defined in `sample/samople-dev.js`).
+1. Run `yarn start` (that builds a micro app defined in `sample/sample-dev.js`).
 1. Open the `sample/sample-dev.html` file in your browser.
 
 ## Building DLL
